@@ -1,0 +1,1 @@
+This repository contains copies of programming language guides from learnxinyminutes.com. The reason I copy this, is that on some networks, this page is not available, however GitHub is. Also this fits nicely into my "learn" repository. All rights belong to the guide creator on learnxinyminutes.
